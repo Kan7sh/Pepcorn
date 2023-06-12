@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "977664204892",
+    "project_id": "pepcorns-d96fe",
+    "storage_bucket": "pepcorns-d96fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977664204892:android:b70893ab1b447c5fe80699",
+        "android_client_info": {
+          "package_name": "com.example.pepcornsllp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977664204892-gsc0c7ovvtu8e2r2do4s16q9jtqo4tf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9eXfuMQhKKQ0IFD6ZjsCbpbcxwYnfHCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977664204892-gsc0c7ovvtu8e2r2do4s16q9jtqo4tf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977664204892-hecnkk89jsosqhqtl1vf886i1uncil4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pepcornsllp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
